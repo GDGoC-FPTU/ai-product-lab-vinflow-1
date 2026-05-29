@@ -50,7 +50,7 @@ pip install google-genai google-generativeai pytest
 ## 🔑 2. Thiết lập biến môi trường `GEMINI_API_KEY`
 
 Để code Python gọi được Gemini API, bạn cần khai báo khóa API của mình vào biến môi trường. **Lưu ý: Không được dán trực tiếp API Key vào code để tránh bị lộ khóa khi push lên GitHub.**
-
+x`
 Hãy mở terminal đã kích hoạt `(.venv)` và chạy lệnh nạp khóa tương ứng:
 
 ### 🪟 Trên Windows:
