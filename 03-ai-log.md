@@ -1,0 +1,1 @@
+em đã bị sai code thiếu [] trong react nếu không có [] trong map nó sẽ liên tục log ra và không dừng lại, AI đã chỉ ra lỗi sai của em 
