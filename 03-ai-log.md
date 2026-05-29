@@ -1,0 +1,2 @@
+
+Mình dùng AI để lên ý tưởng cho các bài toán vận hành cho Xanh SM, từ đó mình tự xác định lens, workflow, nếu có gì không hiểu thì tham khảo AI xem workflow có đúng thực tế không, từ đó đánh giá và chọn phù hợp với suy nghĩ thực tế. AI đôi lúc cũng có sai, AI có lúc gán Agent cho bài toán quá sớm làm mình khó xác định là LLM hay Agent. Một số số liệu cũng chỉ là ước tính, chưa phải dữ liệu thật. Mình sửa prompt bằng cách yêu cầu AI ghi rõ số liệu là giả định, chọn giải pháp đơn giản nhất trước để mình có thể chọn lọc.
